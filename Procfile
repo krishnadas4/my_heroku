@@ -1,0 +1,1 @@
+web gunicorn leo.wsgi:application --log-file -
